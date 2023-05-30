@@ -1,12 +1,9 @@
 [package]
 name = "deimos"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "A work in progress graphics library"
 repository = "https://github.com/samvandende/deimos"
 readme = "README.md"
 categories = ["graphics"]
-
-
-
