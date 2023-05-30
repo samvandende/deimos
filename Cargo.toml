@@ -1,10 +1,4 @@
-[workspace]
-members = [
-  "deimos",
-]
-default-members = ["deimos"]
-
-[workspace.package]
+[package]
 name = "deimos"
 version = "0.1.0"
 edition = "2021"
